@@ -1,7 +1,0 @@
-
--Prisma is a modern Node.js and TypeScript ORM (Object detection mapper).
--Provides a type-safe query builder that makes working with databases easier and less error-prone.
-
--The Prisma Client is a type-safe query library tailored to my schema.
-
--IT provides autocompletion, type checking, and IntelliSense in JavaScript/TypeScript
